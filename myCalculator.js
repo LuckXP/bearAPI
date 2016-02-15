@@ -1,4 +1,5 @@
 var Calculator = require('./calculator');
 
 var myCalculator = new Calculator();
-console.log( myCalculator(4,1) );
+console.log(myCalculator.sum(4,5));
+console.log(myCalculator['sum'](6,7));

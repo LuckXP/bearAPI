@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LuckXP/bearAPI/issues"
   },
-  "homepage": "https://github.com/LuckXP/bearAPI#readme"
+  "homepage": "https://github.com/LuckXP/bearAPI#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
